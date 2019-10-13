@@ -1,0 +1,6 @@
+E:\DontNetProjects\StringTest\StringTest\bin\Debug\StringTest.exe.config
+E:\DontNetProjects\StringTest\StringTest\bin\Debug\StringTest.exe
+E:\DontNetProjects\StringTest\StringTest\bin\Debug\StringTest.pdb
+E:\DontNetProjects\StringTest\StringTest\obj\Debug\StringTest.csprojResolveAssemblyReference.cache
+E:\DontNetProjects\StringTest\StringTest\obj\Debug\StringTest.exe
+E:\DontNetProjects\StringTest\StringTest\obj\Debug\StringTest.pdb
